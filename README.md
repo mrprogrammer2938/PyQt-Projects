@@ -14,7 +14,7 @@ Internet Test | [Source](https://github.com/mrprogrammer2938/PyQt-Projects/tree/
 
 Name | Code | 
 :----:|:------:
-Modern Button | [Codes](https://github.com/mrprogrammer2938/PyQt-Projects/tree/master/Technical%20Codes/Moden-Button)
+Modern Button | [Codes](https://github.com/mrprogrammer2938/PyQt-Projects/tree/master/Technical%20Codes/Moden-Button) |
 <br><br>
 
 ### Social Network 🌐
@@ -30,5 +30,6 @@ sinameysami@gmail.com
 gg1504722@gmail.com
 mrprogrammer2938@gmail.com
 ```
+<br><br>
 
 <footer><center>Mr.Programmer2938 &#169 Copyright</center></footer>
