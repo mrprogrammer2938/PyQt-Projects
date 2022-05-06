@@ -1,2 +1,34 @@
 # PyQt-Projects
 PyQt Projects 💻
+<hr>
+
+### Projects
+Project Name | Link |
+:------------:|:-----:
+Digital Clock | [Source](https://github.com/mrprogrammer2938/PyQt-Projects/tree/master/Digital-Clock) | 
+Notepad | [Source](https://github.com/mrprogrammer2938/PyQt-Projects/tree/master/Notepad) |
+Internet Test | [Source](https://github.com/mrprogrammer2938/PyQt-Projects/tree/master/Internettest) | 
+<br>
+
+#### Small technical Codes
+
+Name | Code | 
+:----:|:------:
+Modern Button | [Codes](https://github.com/mrprogrammer2938/PyQt-Projects/tree/master/Technical%20Codes/Moden-Button)
+<br><br>
+
+### Social Network 🌐
+
+[Instagram](https://instagram.com/sina.python)
+
+### Mail
+<a href="mailto:sinameysami@gmail.com">Send Email</a>
+
+###### More Address: 
+``` txt
+sinameysami@gmail.com
+gg1504722@gmail.com
+mrprogrammer2938@gmail.com
+```
+
+<footer><center>Mr.Programmer2938 &#169 Copyright</center></footer>
