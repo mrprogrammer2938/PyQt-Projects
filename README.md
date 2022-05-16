@@ -8,6 +8,9 @@ Project Name | Link |
 Digital Clock | [Source](https://github.com/mrprogrammer2938/PyQt-Projects/tree/master/Digital-Clock) | 
 Notepad | [Source](https://github.com/mrprogrammer2938/PyQt-Projects/tree/master/Notepad) |
 Internet Test | [Source](https://github.com/mrprogrammer2938/PyQt-Projects/tree/master/Internettest) | 
+File Extractor | [Source](https://github.com/mrprogrammer2938/PyQt-Projects/tree/master/File-Extractor) |
+QrCode Maker | [Source](https://github.com/mrprogrammer2938/PyQt-Projects/tree/master/QrCode-Maker) | 
+Browser  | [Source](https://github.com/mrprogrammer2938/PyQt-Projects/tree/master/Browser) |
 <br>
 
 #### Small technical Codes
