@@ -11,6 +11,7 @@ Internet Test | [Source](https://github.com/mrprogrammer2938/PyQt-Projects/tree/
 File Extractor | [Source](https://github.com/mrprogrammer2938/PyQt-Projects/tree/master/File-Extractor) |
 QrCode Maker | [Source](https://github.com/mrprogrammer2938/PyQt-Projects/tree/master/QrCode-Maker) | 
 Browser  | [Source](https://github.com/mrprogrammer2938/PyQt-Projects/tree/master/Browser) |
+Faker | [Source](https://github.com/mrprogrammer2938/PyQt-Projects/tree/master/Faker) |
 <br>
 
 #### Small technical Codes
