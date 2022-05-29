@@ -14,6 +14,7 @@ class Window(QMainWindow):
         global title_
         title_ = "PDF Reader"
         self.setWindowTitle(title_)
+        self.setWindowIcon(QIcon("./icon/pdf-reader-icon.png"))
         self.setGeometry(500,70,1000,800)
         menu = QMenuBar(self)
         self.setMenuWidget(menu)
@@ -52,7 +53,6 @@ def main():
     app = QApplication(sys.argv)
     app.setApplicationName("PDF-Reader")
     app.setApplicationVersion("v1.0")
-    app.setWindowIcon(QIcon("./icon/pdf-reader-icon.png"))
     window = Window()
     window.show()
     app.exec_()
