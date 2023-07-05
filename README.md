@@ -12,6 +12,7 @@ File Extractor | [Source](https://github.com/mrprogrammer2938/PyQt-Projects/tree
 QrCode Maker | [Source](https://github.com/mrprogrammer2938/PyQt-Projects/tree/master/QrCode-Maker) | 
 Browser  | [Source](https://github.com/mrprogrammer2938/PyQt-Projects/tree/master/Browser) |
 Faker | [Source](https://github.com/mrprogrammer2938/PyQt-Projects/tree/master/Faker) |
+Calculator | [Source](https://github.com/mrprogrammer2938/PyQt-Projects/tree/master/Calculator) |
 <br>
 
 #### Small technical Codes
