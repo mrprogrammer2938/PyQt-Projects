@@ -7,8 +7,8 @@ from PyQt5.QtGui import *
 from PyQt5.uic import loadUi
 import sys
 width = 401
-height = 398
-class Window(QWidget):
+height = 407
+class Window(QMainWindow):
     result = 0
     def __init__(self):
         super(Window,self).__init__()
@@ -36,7 +36,7 @@ class Window(QWidget):
         
         self._result.clicked.connect(self.result)
         self.clear.clicked.connect(self.clear_text)
-
+        self.create_statusbar()
     def result(self):
         text = self.line.text()
         print(text)
@@ -113,7 +113,11 @@ class Window(QWidget):
         mess.setDetailedText("Calculator Error")
         mess.setStandardButtons(QMessageBox.Ok)
         res = mess.exec_()
-        
+      
+    def create_statusbar(self):
+        status = QStatusBar()
+        status.showMessage("Calculator v1.0")
+        self.setStatusBar(status)
 def main():
     app = QApplication(sys.argv)
     app.setApplicationName("ماشین حساب")
@@ -125,6 +129,5 @@ def main():
     sys.exit(app.exec_())
 
 if __name__ == "__main__":
-    # Calculator v1.0
     main()
     
