@@ -13,6 +13,7 @@ QrCode Maker | [Source](https://github.com/mrprogrammer2938/PyQt-Projects/tree/m
 Browser  | [Source](https://github.com/mrprogrammer2938/PyQt-Projects/tree/master/Browser) |
 Faker | [Source](https://github.com/mrprogrammer2938/PyQt-Projects/tree/master/Faker) |
 Calculator | [Source](https://github.com/mrprogrammer2938/PyQt-Projects/tree/master/Calculator) |
+Joke | [Source](https://github.com/mrprogrammer2938/PyQt-Projects/tree/master/joker)
 <br>
 
 #### Small technical Codes
