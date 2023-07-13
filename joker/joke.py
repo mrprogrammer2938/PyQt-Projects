@@ -15,7 +15,7 @@ height = 414
 class Window(QWidget):
     def __init__(self):
         super(Window,self).__init__()
-        loadUi("file3.ui",self)
+        loadUi("form.ui",self)
         self.setWindowTitle("جک")
         self.setGeometry(500,400,width,height)
         self.setFixedSize(width,height)
